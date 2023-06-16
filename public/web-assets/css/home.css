@@ -1,0 +1,499 @@
+#logo1{
+    /* image 2 */
+
+position: absolute;
+width: 245px;
+height: 70px;
+left: 550px;
+top: 1px;
+
+background: url(image.png);
+
+}
+#uni{
+    /* اختر كليتك */
+
+
+position: absolute;
+width: 296px;
+height: 70px;
+left: 550px;
+top: 210px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 14px;
+/* or 22% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#firstt{
+    /* اهلا بك في موقع الخدمات الطلابية */
+
+
+position: absolute;
+width: 988px;
+height: 70px;
+left: 300px;
+top: 80px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 14px;
+/* or 22% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#mtis{
+/* تكنولوجيا الادارة */
+
+
+position: absolute;
+width: 223.38px;
+height: 225px;
+left: 194px;
+top: 900px;
+
+background: url(image.png);
+border-radius: 11px;
+}
+#eng{
+    /* الهندسة */
+
+
+position: absolute;
+width: 225px;
+height: 224px;
+left: 194px;
+top: 500px;
+
+background: url(image.png);
+}
+#com{
+    /* كلية التجارة */
+
+
+position: absolute;
+width: 225px;
+height: 225px;
+left: 607px;
+top: 500px;
+
+background: url(image.png);
+}
+#lan{
+    /* اداب*/
+
+
+position: absolute;
+width: 225px;
+height: 193.39px;
+left: 1020px;
+top: 500px;
+
+background: url(image.png);
+}
+#spor{
+    /* تربية رياضية */
+    position: absolute;
+    width: 222.01px;
+    height: 225px;
+    left: 1023px;
+    top: 901px;
+    background: url(image.png);
+}
+#fineart{
+    /* تربية نوعية */
+
+
+position: absolute;
+width: 257.14px;
+height: 225px;
+left: 590px;
+top: 900px;
+
+background: url(image.png);
+}
+#med{
+    /* التمريض */
+
+
+position: absolute;
+width: 225px;
+height: 225px;
+left: 1020px;
+top: 1300px;
+
+background: url(image.png);
+}
+#phr{
+    
+/* صيدلة */
+
+
+position: absolute;
+width: 225px;
+height: 225px;
+left: 607px;
+top: 1300px;
+
+background: url(image.png);
+}
+#sci{
+    /* علوم */
+
+
+position: absolute;
+width: 227px;
+height: 222px;
+left: 193px;
+top: 1300px;
+
+background: url(image.png);
+}
+#ed{
+    /* التربية */
+
+position: absolute;
+width: 225px;
+height: 225px;
+left: 194px;
+top: 1700px;
+
+background: url(image.png);
+filter: drop-shadow(-6px 11px 2px rgba(232, 225, 225, 0.5));
+border-radius: 22px;
+}
+#dr{
+    /* الطب */
+
+
+position: absolute;
+width: 225px;
+height: 272px;
+left: 607px;
+top: 1700px;
+
+background: url(image.png);
+}
+
+#login{
+    /* Button */
+
+
+box-sizing: border-box;
+
+position:fixed;
+width: 38px;
+height: 11px;
+left: 600px;
+top: 1950px;
+
+background: #FFFFFF;
+border: 1px solid #DCDEE6;
+border-radius: 10px;
+/* تأكيد */
+
+
+position: absolute;
+width: 200px;
+height: 111px;
+left: 600px;
+top: 2000px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 90px;
+/* or 67% */
+
+display: flex;
+align-items: left;
+text-align: center;
+
+
+color: #06283D;
+}
+
+#t1{
+   /* كلية تكنولوجيا الادارة و نظم المعلومات */
+
+
+position: absolute;
+width: 335px;
+height: 70px;
+left: 139px;
+top: 1140px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 44px;
+/* or 110% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t2{
+    /* كلية الهندسة */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 220px;
+top: 685px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t3{
+    /* كلية التجارة */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 640px;
+top: 680px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t4{
+    /* كلية الاداب */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 1060px;
+top: 680px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t5{
+    /* كلية التربية النوعية */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 611px;
+top: 1140px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 44px;
+/* or 110% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+
+}
+#t6{
+    /* كلية التربية الرياضية */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 1024px;
+top: 1140px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 44px;
+/* or 110% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t7{
+    /* كلية العلوم */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 220px;
+top: 1500px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t8{
+    /* كلية الصيدلية */
+
+
+position: absolute;
+width: 247px;
+height: 70px;
+left: 640px;
+top: 1500px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t9{
+    /* كلية التمريض */
+
+
+position: absolute;
+width: 247px;
+height: 70px;
+left: 1040px;
+top: 1500px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t10{
+    /* كلية الطب */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 661px;
+top: 1900px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+}
+#t11{
+    /* كلية التربية */
+
+
+position: absolute;
+width: 216px;
+height: 70px;
+left: 230px;
+top: 1880px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 14px;
+/* or 35% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #06283D;
+
+}
+
+      
+      .button:hover span {
+        padding-right: 25px;
+      }
+      
+      .button:hover span:after {
+        opacity: 1;
+        right: 0;
+      }
+a{
+    color: #FFFFFF;
+    font-style: normal;
+}

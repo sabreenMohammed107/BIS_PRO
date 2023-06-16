@@ -1,0 +1,255 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 31rem;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+#logo1{
+    /* image 2 */
+
+position: absolute;
+width: 245px;
+height: 78px;
+left: 820px;
+top: 23px;
+
+background: url(image.png);
+}
+body{
+    background: linear-gradient(
+        to right,   #47B5FF 0% ,
+        #47B5FF 31%,
+white 42%,
+white 100% );
+}
+#sub {
+    /* تسجيل مواد الفصل الدراسي */
+
+
+position: absolute;
+/* width: 439px; */
+height: 52px;
+left: 43px;
+top: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 24px;
+/* or 67% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.25px;
+
+color: #FFFFFF;
+}
+
+#sin {
+     /* قم بتسجيل جميع مقرراتك الدراسية بدون اخطاء باستخدام موقع الحدمات الطلابية */
+
+
+position: absolute;
+/* width: 372px; */
+height: 100px;
+left: 9px;
+top: 421px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 38px;
+/* or 138% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.25px;
+
+color: #F0F0F0;
+}
+
+#logboy{
+    position: absolute;
+width: 320px;
+height: 310px;
+left: 52px;
+top: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.25px;
+}
+
+h2 {/* تسجيل الدخول */
+
+
+    /* position: absolute;
+     width: 266px;
+    height: 51px;
+    left: 1111px;
+    top: 96px; */
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 24px;
+    /* or 67% */
+
+    /* display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.25px; */
+
+    color: #06283D;
+
+}
+p{
+    /* سجل دخولك الان و احصل على جميع خدماتك الطلابية بسهوله , و في مكان واحد */
+
+
+/* position: absolute;
+width: 530px;
+height: 59px;
+left: 795px;
+top: 154px; */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 24px;
+/* or 100% */
+
+/* display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: -0.25px; */
+
+color: #BFBFBF;
+}
+#done{
+    /* تأكيد */
+
+
+position: absolute;
+width: 120px;
+height: 32px;
+left: 1111px;
+top: 504px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 41px;
+line-height: 24px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.25px;
+
+color: #88cdf6;
+}
+#pass{
+    /* هل نسيت كلمة السر ؟ */
+    position: absolute;
+    left: 89.64%;
+    right: 10.79%;
+    top: 72.19%;
+    bottom: 47.37%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #47B5FF;
+}
+
+#password{
+  /* Message */
+
+
+position: absolute;
+left: 90.65%;
+
+top: 60.61%;
+bottom: 44.87%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 23px;
+/* identical to box height, or 96% */
+
+
+color: #06283D;
+}
+
+#passbox{
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 16px;
+
+position: absolute;
+left: 64.61%;
+right: 2.24%;
+top: 66.34%;
+bottom: 26.65%;
+
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+border-radius: 8px;
+}
+#mailbox{
+
+/* Message */
+
+
+position: absolute;
+left: 87.69%;
+right: 7.79%;
+top: 36.66%;
+bottom: 66.82%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 19px;
+/* identical to box height, or 96% */
+
+
+color: #06283D;}
+
+button{
+    /* position: absolute;
+    top: 500px;
+    left: 1054px; */
+}
+#shape{
+        /* position: absolute;
+        top: 26px;
+        left: -103px;
+        width: 576px;
+        height: 547px; */
+}
